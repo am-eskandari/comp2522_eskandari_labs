@@ -5,21 +5,55 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5cfae420-a6cf-49c7-b868-f82bc8a10bbe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/comp2522_eskandari_labs.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ca/bcit/comp2522/lab01/COMP 2522 202310 Lab 01 Guppy-1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ca/bcit/comp2522/lab01/Guppy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ca/bcit/comp2522/lab01/GuppyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ca/bcit/comp2522/lab02/COMP 2522 202310 Lab 02 Relationships.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ca/bcit/comp2522/lab02/Hare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ca/bcit/comp2522/lab02/Race.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ca/bcit/comp2522/lab02/Tortoise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ca/bcit/comp2522/lab02/Tournament.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ca/bcit/comp2522/lab02/lab02.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ca/bcit/comp2522/lab03/Airport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ca/bcit/comp2522/lab03/COMP 2522 202310 Lab 03 Demeter Airlines.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ca/bcit/comp2522/lab03/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ca/bcit/comp2522/lab03/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ca/bcit/comp2522/lab03/Flight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ca/bcit/comp2522/lab03/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ca/bcit/comp2522/lab03/Plane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ca/bcit/comp2522/lab03/Renter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ca/bcit/comp2522/lab03/Seat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ca/bcit/comp2522/lab03/Updated_Demeter.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ca/bcit/comp2522/lab03/lab03.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ca/bcit/comp2522/lab04/COMP 2522 202310 Lab 04 Polymorphism RPN.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ca/bcit/comp2522/lab04/warmup/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ca/bcit/comp2522/lab04/warmup/Parallelogram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ca/bcit/comp2522/lab04/warmup/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ca/bcit/comp2522/lab04/warmup/Quadrilateral.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ca/bcit/comp2522/lab04/warmup/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ca/bcit/comp2522/lab04/warmup/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comp2522_eskandari_labs.iml" beforeDir="false" afterPath="$PROJECT_DIR$/comp2522_eskandari_labs.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ca/bcit/comp2522/lab04/ifk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ca/bcit/comp2522/lab04/ifk.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2LsymL1FjIykrAS2La05Nh7Z4sW" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -32,13 +66,46 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/test/Documents/Programming Directories/BCIT/COMP 2522/comp2522_eskandari_labs/src/ca/bcit/comp2522",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\test\Documents\Programming Directories\BCIT\COMP 2522\comp2522_eskandari_labs\src\ca\bcit\comp2522\lab01" />
+      <recent name="C:\Users\test\Documents\Programming Directories\BCIT\COMP 2522\comp2522_eskandari_labs\src\ca\bcit\comp2522\lab02" />
+      <recent name="C:\Users\test\Documents\Programming Directories\BCIT\COMP 2522\comp2522_eskandari_labs\src\ca\bcit\comp2522\lab03" />
+      <recent name="C:\Users\test\Documents\Programming Directories\BCIT\COMP 2522\comp2522_eskandari_labs\src\ca\bcit\comp2522\lab04" />
+      <recent name="C:\Users\test\Documents\Programming Directories\BCIT\COMP 2522\comp2522_eskandari_labs" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Driver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ca.bcit.comp2522.lab04.warmup.Driver" />
+      <module name="comp2522_eskandari_labs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ca.bcit.comp2522.lab04.warmup.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Driver" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -48,6 +115,8 @@
       <option name="presentableId" value="Default" />
       <updated>1676674245054</updated>
       <workItem from="1676674246521" duration="712000" />
+      <workItem from="1676688327522" duration="438000" />
+      <workItem from="1676688823249" duration="3502000" />
     </task>
     <servers />
   </component>
