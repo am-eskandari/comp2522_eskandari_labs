@@ -78,8 +78,7 @@ public class RPNCalculator {
         final int stackSize = Integer.parseInt(argv[0]);
         final RPNCalculator calculator = new RPNCalculator(stackSize);
         try {
-            System.out.println("[" + argv[1] + "] = "
-                    + calculator.processFormula(argv[1]));
+            System.out.println("[" + argv[1] + "] = " + calculator.processFormula(argv[1]));
         } catch (final IllegalArgumentException ex) {
             System.err.println("formula can only contain integers, +, -, *, and /");
         } catch (final BufferOverflowException ex) {

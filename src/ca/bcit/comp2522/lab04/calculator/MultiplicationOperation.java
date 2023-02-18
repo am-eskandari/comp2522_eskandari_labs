@@ -1,16 +1,36 @@
 package ca.bcit.comp2522.lab04.calculator;
 
-public class MultiplicationOperation extends AbstractOperation{
+/**
+ * Performs the multiplication of two integers.
+ *
+ * @author Amir Eskandari
+ * @version 1.0
+ */
+public class MultiplicationOperation extends AbstractOperation {
+
+    /**
+     * The character symbol for multiplication.
+     */
     public static final char MULTIPLICATION_SYMBOL = '*';
 
-
-    public MultiplicationOperation(char operationType) {
+    /**
+     * Constructs a MultiplicationOperation object.
+     *
+     * @param operationType the operation symbol in char
+     */
+    public MultiplicationOperation(final char operationType) {
         super(MULTIPLICATION_SYMBOL);
-
     }
 
+    /**
+     * Performs a multiplication operation on the two operands.
+     *
+     * @param operandA the first operand as an integer
+     * @param operandB the second operand as an integer
+     * @return the integer division of two operands
+     */
     @Override
-    public int perform(int operandA, int operandB) {
+    public int perform(final int operandA, final int operandB) {
         return operandA * operandB;
     }
 }

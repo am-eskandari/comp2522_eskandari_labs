@@ -4,20 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5cfae420-a6cf-49c7-b868-f82bc8a10bbe" name="Changes" comment="create initiallu">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ca/bcit/comp2522/lab04/calculator/AbstractOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ca/bcit/comp2522/lab04/calculator/AdditionOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ca/bcit/comp2522/lab04/calculator/DivisionOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ca/bcit/comp2522/lab04/calculator/MultiplicationOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ca/bcit/comp2522/lab04/calculator/Operation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ca/bcit/comp2522/lab04/calculator/RPNCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ca/bcit/comp2522/lab04/calculator/Stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ca/bcit/comp2522/lab04/calculator/SubtractionOperation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+    <list default="true" id="5cfae420-a6cf-49c7-b868-f82bc8a10bbe" name="Changes" comment="finish main portion">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ca/bcit/comp2522/lab04/ifk.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ca/bcit/comp2522/lab04/warmup/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ca/bcit/comp2522/lab04/warmup/Driver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ca/bcit/comp2522/lab04/calculator/AbstractOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ca/bcit/comp2522/lab04/calculator/AbstractOperation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ca/bcit/comp2522/lab04/calculator/AdditionOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ca/bcit/comp2522/lab04/calculator/AdditionOperation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ca/bcit/comp2522/lab04/calculator/DivisionOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ca/bcit/comp2522/lab04/calculator/DivisionOperation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ca/bcit/comp2522/lab04/calculator/MultiplicationOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ca/bcit/comp2522/lab04/calculator/MultiplicationOperation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ca/bcit/comp2522/lab04/calculator/Operation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ca/bcit/comp2522/lab04/calculator/Operation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +83,7 @@
     <configuration name="RPNCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ca.bcit.comp2522.lab04.calculator.RPNCalculator" />
       <module name="comp2522_eskandari_labs" />
-      <option name="PROGRAM_PARAMETERS" value="10 &quot;2 3 - 4 *&quot;" />
+      <option name="PROGRAM_PARAMETERS" value="10 &quot;1 2 +&quot;" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ca.bcit.comp2522.lab04.calculator.*" />
@@ -123,12 +116,24 @@
       <workItem from="1676674246521" duration="712000" />
       <workItem from="1676688327522" duration="438000" />
       <workItem from="1676688823249" duration="3502000" />
-      <workItem from="1676745938128" duration="1030000" />
+      <workItem from="1676745938128" duration="8275000" />
     </task>
+    <task id="LOCAL-00001" summary="finish main portion">
+      <created>1676747031849</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676747031849</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="finish main portion" />
+    <option name="LAST_COMMIT_MESSAGE" value="finish main portion" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
