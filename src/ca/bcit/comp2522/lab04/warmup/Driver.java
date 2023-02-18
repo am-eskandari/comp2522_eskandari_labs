@@ -5,13 +5,13 @@ public class Driver {
         Quadrilateral quadrilateral = new Quadrilateral();
         quadrilateral.describe();
 
-        Parallelogram parallelogram = new Parallelogram();
+        Quadrilateral parallelogram = new Parallelogram();
         parallelogram.describe();
 
-        Rectangle rectangle = new Rectangle();
+        Quadrilateral rectangle = new Rectangle();
         rectangle.describe();
 
-        Square square = new Square();
+        Quadrilateral square = new Square();
         square.describe();
     }
 }
