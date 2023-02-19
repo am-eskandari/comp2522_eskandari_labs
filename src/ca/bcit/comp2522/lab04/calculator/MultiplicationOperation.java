@@ -7,7 +7,6 @@ package ca.bcit.comp2522.lab04.calculator;
  * @version 1.0
  */
 public class MultiplicationOperation extends AbstractOperation {
-
     /**
      * The character symbol for multiplication.
      */
