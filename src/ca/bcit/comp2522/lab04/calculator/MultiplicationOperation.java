@@ -14,10 +14,8 @@ public class MultiplicationOperation extends AbstractOperation {
 
     /**
      * Constructs a MultiplicationOperation object.
-     *
-     * @param operationType the operation symbol in char
      */
-    public MultiplicationOperation(final char operationType) {
+    public MultiplicationOperation() {
         super(MULTIPLICATION_SYMBOL);
     }
 

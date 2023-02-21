@@ -59,7 +59,7 @@ public class Stack {
      * @return the number of unused slots in the stack.
      */
     public int unused() {
-        return stackValues.length - count;
+        return capacity() - size();
     }
 
     /**
@@ -69,7 +69,7 @@ public class Stack {
      * @throws BufferOverflowException - if the stack is full.
      */
     public void push(final int value) {
-        if (count >= stackValues.length) {
+        if (unused() <= 0) {
             throw new BufferOverflowException();
         }
         stackValues[count++] = value;

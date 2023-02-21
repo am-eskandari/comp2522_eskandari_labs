@@ -7,19 +7,16 @@ package ca.bcit.comp2522.lab04.calculator;
  * @version 1.0
  */
 public class SubtractionOperation extends AbstractOperation {
-     /**
+    /**
      * The subtraction symbol used to create a new SubtractionOperation.
      */
     public static final char SUBTRACTION_SYMBOL = '-';
 
     /**
-     * Constructs a new SubtractionOperation with the specified operation type.
-     *
-     * @param operationType - the operation type to use for the operation.
+     * Constructs a new SubtractionOperation object.
      */
-    public SubtractionOperation(final char operationType) {
+    public SubtractionOperation() {
         super(SUBTRACTION_SYMBOL);
-
     }
 
     /**

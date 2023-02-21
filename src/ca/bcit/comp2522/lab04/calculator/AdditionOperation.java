@@ -14,10 +14,8 @@ public class AdditionOperation extends AbstractOperation {
 
     /**
      * Constructs a new AdditionOperation.
-     *
-     * @param operationType the operation symbol in char
      */
-    public AdditionOperation(final char operationType) {
+    public AdditionOperation() {
         super(ADDITION_SYMBOL);
     }
 

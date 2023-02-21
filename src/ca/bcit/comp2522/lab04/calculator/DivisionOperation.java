@@ -15,9 +15,8 @@ public class DivisionOperation extends AbstractOperation {
     /**
      * Constructs a DivisionOperation object.
      *
-     * @param operationType the operation symbol in char
      */
-    public DivisionOperation(final char operationType) {
+    public DivisionOperation() {
         super(DIVISION_SYMBOL);
     }
 

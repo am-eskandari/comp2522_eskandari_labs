@@ -12,12 +12,12 @@ import java.util.Scanner;
  * @version 1.0
  */
 public class RPNCalculator {
+    private static final int MIN_SIZE = 2;
 
     /**
      * The stack used to store operands during formula processing.
      */
     private final Stack stack;
-
     /**
      * Constructs an RPNCalculator with the specified stack size.
      *
@@ -25,7 +25,6 @@ public class RPNCalculator {
      * @throws IllegalArgumentException - if the stack size is less than 2.
      */
     public RPNCalculator(final int stackSize) {
-        int MIN_SIZE = 2;
         if (stackSize < MIN_SIZE) {
             throw new IllegalArgumentException("Stack size must be at least 2.");
         }
@@ -38,7 +37,7 @@ public class RPNCalculator {
      *
      * @param formula - the formula to process.
      * @return the result of the calculation.
-     * @throws BufferOverflowException - if too many operands are encountered in the formula.
+     * @throws BufferOverflowException  - if too many operands are encountered in the formula.
      * @throws BufferUnderflowException - if too few operands are encountered in the formula.
      * @throws IllegalArgumentException - if formula is null or empty.
      */
@@ -61,10 +60,10 @@ public class RPNCalculator {
 
     private Operation getOperation(final char symbol) {
         return switch (symbol) {
-            case '+' -> new AdditionOperation(symbol);
-            case '-' -> new SubtractionOperation(symbol);
-            case '*' -> new MultiplicationOperation(symbol);
-            case '/' -> new DivisionOperation(symbol);
+            case '+' -> new AdditionOperation();
+            case '-' -> new SubtractionOperation();
+            case '*' -> new MultiplicationOperation();
+            case '/' -> new DivisionOperation();
             default -> throw new IllegalArgumentException("Invalid operation: " + symbol);
         };
     }

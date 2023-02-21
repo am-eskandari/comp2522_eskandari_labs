@@ -20,4 +20,22 @@ public class Point {
         this.x = x;
         this.y = y;
     }
+
+    /**
+     * Returns the x-coordinate of the point.
+     *
+     * @return The x-coordinate of the point.
+     */
+    public double getX() {
+        return x;
+    }
+
+    /**
+     * Returns the y-coordinate of the point.
+     *
+     * @return The y-coordinate of the point.
+     */
+    public double getY() {
+        return y;
+    }
 }
