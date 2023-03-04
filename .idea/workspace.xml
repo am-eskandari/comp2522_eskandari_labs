@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5cfae420-a6cf-49c7-b868-f82bc8a10bbe" name="Changes" comment="finish main portion">
+    <list default="true" id="5cfae420-a6cf-49c7-b868-f82bc8a10bbe" name="Changes" comment="adding javadocs">
+      <change afterPath="$PROJECT_DIR$/src/ca/bcit/comp2522/lab05/ArraySet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ca/bcit/comp2522/lab05/note.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ca/bcit/comp2522/lab04/calculator/AbstractOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ca/bcit/comp2522/lab04/calculator/AbstractOperation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ca/bcit/comp2522/lab04/calculator/AdditionOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ca/bcit/comp2522/lab04/calculator/AdditionOperation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ca/bcit/comp2522/lab04/calculator/DivisionOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ca/bcit/comp2522/lab04/calculator/DivisionOperation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ca/bcit/comp2522/lab04/calculator/MultiplicationOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ca/bcit/comp2522/lab04/calculator/MultiplicationOperation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ca/bcit/comp2522/lab04/calculator/Operation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ca/bcit/comp2522/lab04/calculator/Operation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,31 +36,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/datpe/OneDrive/Document - Windows 8 Help/Coding Repository/Checkstyles/COMP-2522-Checkstyle.xml",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "org.infernus.idea.checkstyle.CheckStyleConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/datpe/OneDrive/Document - Windows 8 Help/Coding Repository/BCIT Repos/COMP 2552/BCIT-COMP-2522-Sample-Code&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.infernus.idea.checkstyle.CheckStyleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\datpe\OneDrive\Document - Windows 8 Help\Coding Repository\BCIT Repos\COMP 2552\comp2522_eskandari_labs\src\ca\bcit\comp2522\lab05" />
       <recent name="C:\Users\test\Documents\Programming Directories\BCIT\COMP 2522\comp2522_eskandari_labs\src\ca\bcit\comp2522\lab01" />
       <recent name="C:\Users\test\Documents\Programming Directories\BCIT\COMP 2522\comp2522_eskandari_labs\src\ca\bcit\comp2522\lab02" />
       <recent name="C:\Users\test\Documents\Programming Directories\BCIT\COMP 2522\comp2522_eskandari_labs\src\ca\bcit\comp2522\lab03" />
       <recent name="C:\Users\test\Documents\Programming Directories\BCIT\COMP 2522\comp2522_eskandari_labs\src\ca\bcit\comp2522\lab04" />
-      <recent name="C:\Users\test\Documents\Programming Directories\BCIT\COMP 2522\comp2522_eskandari_labs" />
     </key>
   </component>
   <component name="RunManager" selected="Application.RPNCalculator">
@@ -116,7 +113,10 @@
       <workItem from="1676674246521" duration="712000" />
       <workItem from="1676688327522" duration="438000" />
       <workItem from="1676688823249" duration="3502000" />
-      <workItem from="1676745938128" duration="8275000" />
+      <workItem from="1676745938128" duration="8518000" />
+      <workItem from="1677442619623" duration="36000" />
+      <workItem from="1677792504827" duration="1193000" />
+      <workItem from="1677945814926" duration="1997000" />
     </task>
     <task id="LOCAL-00001" summary="finish main portion">
       <created>1676747031849</created>
@@ -125,7 +125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676747031849</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="adding javadocs">
+      <created>1676761380247</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1676761380247</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -133,7 +140,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="finish main portion" />
-    <option name="LAST_COMMIT_MESSAGE" value="finish main portion" />
+    <MESSAGE value="adding javadocs" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding javadocs" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
