@@ -1,5 +1,11 @@
 package ca.bcit.comp2522.lab05;
 
+/**
+ * ArraySetDriver is a simple driver class to test the functionality of ArraySet class.
+ *
+ * @author Amir Eskandari
+ * @version 1.0
+ */
 public class ArraySetDriver {
     public static void main(String[] args) {
         ArraySet<Integer> set = new ArraySet<>();
