@@ -1,8 +1,5 @@
 package ca.bcit.comp2522.lab06;
 
-<<<<<<< Updated upstream
-public class NotAnIntegerException extends Exception {
-=======
 /**
  * The NotAnIntegerException represent an exception that occurs when the user enters a non-integer value.
  *
@@ -15,7 +12,6 @@ public class NotAnIntegerException extends Exception {
      *
      * @param message the error message for the exception
      */
->>>>>>> Stashed changes
     public NotAnIntegerException(String message) {
         super(message);
     }

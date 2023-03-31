@@ -1,14 +1,5 @@
 package ca.bcit.comp2522.lab06;
 
-<<<<<<< Updated upstream
-public class NumberReader {
-    private final InputReader inputReader;
-
-    public NumberReader() {
-        inputReader = new InputReader();
-    }
-
-=======
 /**
  * The NumberReader class is used to read integers from the console and calculate their sum.
  *
@@ -27,7 +18,6 @@ public class NumberReader {
     /**
      * Prompts the user to enter integers and calculates their sum.
      */
->>>>>>> Stashed changes
     public void guessNumber() {
         int sum = 0;
         while (true) {
@@ -44,14 +34,6 @@ public class NumberReader {
         }
         System.out.println("The sum of numbers entered is " + sum);
     }
-<<<<<<< Updated upstream
-
-    public static void main(String[] args) {
-        NumberReader numberReader = new NumberReader();
-        numberReader.guessNumber();
-    }
-}
-=======
     /**
      * The main method creates a NumberReader object and calls its guessNumber method.
      *
@@ -62,4 +44,3 @@ public class NumberReader {
         numberReader.guessNumber();
     }
 }
->>>>>>> Stashed changes
