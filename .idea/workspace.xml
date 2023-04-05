@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5cfae420-a6cf-49c7-b868-f82bc8a10bbe" name="Changes" comment="adding javadocs">
-      <change afterPath="$PROJECT_DIR$/src/ca/bcit/comp2522/lab07/COMP 2522 202310 Lab 07 Doubly Linked List.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ca/bcit/comp2522/lab07/DoublyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ca/bcit/comp2522/lab07/DoublyLinkedListDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ca/bcit/comp2522/lab07/Node.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ca/bcit/comp2522/lab06.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ca/bcit/comp2522/lab06/InputReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ca/bcit/comp2522/lab06/InputReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ca/bcit/comp2522/lab06/NotAnIntegerException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ca/bcit/comp2522/lab06/NotAnIntegerException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ca/bcit/comp2522/lab06/NumberReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ca/bcit/comp2522/lab06/NumberReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ca/bcit/comp2522/lab08/COMP 2522 202310 Lab 08 Paths in Graph.pdf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +41,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/test/Documents/Programming Directories/BCIT/COMP 2522/comp2522_eskandari_labs/src/ca/bcit/comp2522/lab07",
+    "last_opened_file_path": "C:/Users/test/Documents/Programming Directories/BCIT/COMP 2522/comp2522_eskandari_labs/src/ca/bcit/comp2522/lab08",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -62,6 +55,11 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\test\Documents\Programming Directories\BCIT\COMP 2522\comp2522_eskandari_labs\src\ca\bcit\comp2522\lab08" />
+      <recent name="C:\Users\test\Documents\Programming Directories\BCIT\COMP 2522\comp2522_eskandari_labs\src\ca\bcit\comp2522\lab07" />
+      <recent name="C:\Users\test\Documents\Programming Directories\BCIT\COMP 2522\comp2522_eskandari_labs\src\ca\bcit\comp2522\lab06" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\datpe\OneDrive\Document - Windows 8 Help\Coding Repository\BCIT Repos\COMP 2552\comp2522_eskandari_labs\src\ca\bcit\comp2522\lab05" />
       <recent name="C:\Users\test\Documents\Programming Directories\BCIT\COMP 2522\comp2522_eskandari_labs\src\ca\bcit\comp2522\lab01" />
@@ -124,7 +122,7 @@
       <workItem from="1677442619623" duration="36000" />
       <workItem from="1677792504827" duration="1193000" />
       <workItem from="1677945814926" duration="1997000" />
-      <workItem from="1680227875175" duration="345000" />
+      <workItem from="1680227875175" duration="444000" />
     </task>
     <task id="LOCAL-00001" summary="finish main portion">
       <created>1676747031849</created>
